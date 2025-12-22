@@ -1,0 +1,2 @@
+# ANN-Based-Multi-Stage-Flow-Shop-Scheduling-with-CONWIP-Control-and-Bottleneck-EDD-Dispatch
+1) What this code solves (in simple words)  A factory has 3 stages:  Prep  Process (this is the slowest stage → bottleneck)  Finish  If too many jobs enter the line, waiting time increases and deliveries become late.  So this system:  Predicts how long each job will take at each stage (using ANN)  Limits total jobt
