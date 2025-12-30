@@ -215,38 +215,7 @@ Shows the first 12 jobs with stage bars:
 * Process row
 * Finish row
 
-This is for:
-
-* managers (visual)
-* interview presentation
-* GitHub screenshots
 
 ---
 
-# 4) How to explain to an interviewer (simple line)
-
-Say this:
-
-> “I built a flow-shop model where an ANN predicts stage times, CONWIP controls WIP, and bottleneck EDD reduces lateness. Then I tune the WIP limit using sensitivity analysis.”
-
----
-
-# 5) Why this is industry standard
-
-This matches real manufacturing systems:
-
-* ANN = predictive analytics
-* CONWIP = Lean pull control
-* Bottleneck dispatching = Theory of Constraints
-* Sensitivity analysis = continuous improvement
-
----
-
-# 6) What you can add to make it even stronger (optional)
-
-Pick only one:
-
-* Add FIFO vs Bottleneck-EDD comparison table
-* Add stage utilization calculation (per stage)
-* Add cost impact estimate (tardiness cost + WIP cost)
 
